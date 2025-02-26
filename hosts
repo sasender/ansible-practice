@@ -1,0 +1,2 @@
+[tomcat_nodes]
+10.0.1.4 ansible_user=sasender # Add Server IP address, one line per server
